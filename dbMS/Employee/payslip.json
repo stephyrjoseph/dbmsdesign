@@ -1,0 +1,21 @@
+[{
+    "employee_id":1,
+    "name":"Akbar",
+    "salary":8000,
+    "deparment":1001,
+    "tax":500
+},
+{
+    "employee_id":2,
+    "name":"Stephy",
+    "salary":7000,
+    "deparment":1002,
+    "tax":520
+},
+{
+    "employee_id":3,
+    "name":"Arun",
+    "salary":5000,
+    "deparment":1003,
+    "tax":350
+}]

@@ -1,0 +1,51 @@
+[
+ {
+   "employee_id":1,
+   "name":"Akbar",
+   "date_joined":"01-01-2023",
+   "deparment":1001,
+   "review":{"year":2022,
+   "rank":"Senior" },
+   "task_force":[{
+    "task_id":30,
+    "name":"Project 3",
+    "role":"team lead"
+   }
+
+   ]
+},
+{
+    "employee_id":2,
+    "name":"Stephy",
+    "date_joined":"04-01-2023",
+    "deparment":1002,
+    "review":{"year":2024,
+   "rank":"Entry level" },
+    "task_force":[{
+        "task_id":20,
+        "name":"Project 2",
+        "role":"Junior dev"
+       }],
+       "report_to":[1,3]
+       
+       
+       
+
+ },
+ {
+    "employee_id":3,
+    "name":"Arun",
+    "date_joined":"10-01-2023",
+    "deparment":1003,
+    "review":{"year":2020,
+   "rank":"Executive" },
+    "task_force":[{
+        "task_id":10,
+        "name":"Project 1",
+        "role":"Asst Project Manager"
+       }],
+       "report_to":[1]
+ }
+ 
+
+]
